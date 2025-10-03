@@ -5,6 +5,11 @@ These tests will be run by GitHub Classroom autograding.
 
 import pytest
 import os
+<<<<<<< HEAD
+=======
+import sys
+from io import StringIO
+>>>>>>> 6d32204da5fcdde64d7e675c16d42a93b2e85b55
 
 
 def test_problem2_imports():
